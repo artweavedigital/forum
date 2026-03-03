@@ -1,0 +1,13 @@
+{
+  "name": "forum",
+  "realname": "Forum",
+  "version": "2.0.4",
+  "dirs": {
+    "view": "module/forum/view",
+    "i18n": "module/forum/i18n",
+    "ressource": "module/forum/ressource",
+    "vendor": "module/forum/vendor",
+    "profil": "module/forum/profil"
+  },
+  "dataDirectory": {}
+}
