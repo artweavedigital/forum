@@ -167,11 +167,12 @@ Le module embarque un style “chic” basé sur des variables CSS (`--primary`,
 ---
 
 ## Licence
-Selon les conventions ZwiiCMS : le module est destiné à être redistribué sous une licence compatible avec l’écosystème Zwii (à préciser si tu publies sur le store).
+Licence GPL-v3
 
 ---
 
 Si tu veux, je te fais aussi :
 - un **guide utilisateur** (côté membres) en 1 page,
 - un **guide modération** (côté admin) avec captures/étapes,
+
 - une **fiche “installation express”** pour le store.
